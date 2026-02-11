@@ -11,17 +11,14 @@ public class exercicio1 {
         System.out.println("Bem-Vindo! Irei lhe auxiliar a descobrir a área e o perímetro de um retângulo.");
         System.out.println("Qual é a unidade de medida do seu retângulo");
         System.out.println("1) mm\n2) cm\n3) m");
-
+        escolha = sc.nextInt();
+        
         do {
-            escolha = sc.nextInt();
-            if (escolha == 1) {
-                unidade = "mm";
-            } else if (escolha == 2) {
-                unidade = "cm";
-            } else if (escolha == 3) {
-                unidade = "m";
-            } else {
-                System.out.println("Opção inválida.");
+        switch (escolha) {
+            case 1 -> unidade = "mm";
+            case 2 -> unidade = "cm";
+            case 3 -> unidade = "m";
+            default -> System.out.println("Opção inválida."); 
             }
         } while(escolha < 1  || escolha > 3);
         
