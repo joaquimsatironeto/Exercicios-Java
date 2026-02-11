@@ -11,5 +11,6 @@ public class exercicio2 {
         int perimetro = tamanho*4;
 
         System.out.println("A área do seu quadrado é: " + area + "\nO perímetro do seu quadrado é: " + perimetro);
+        sc.close();
     }
 }
