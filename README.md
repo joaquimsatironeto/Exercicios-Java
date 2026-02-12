@@ -1,6 +1,6 @@
 # Lista de exercícios em Java
 
-![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
+![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)![Linguagem Utilizada](https://img.shields.io/badge/Linguagem-Java-red)
 > Nota: Estou seguindo a lista IFBA para a disciplina de Lógica de programação.
 
 ---
