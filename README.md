@@ -1,7 +1,10 @@
 # Lista de exercícios em Java
-> Nota:Estou seguindo a lista IFBA para a disciplina de Lógica de programação.
-![Status do Projeto](https://img.shields.io/badge/Status-Em%Desenvolvimento-orange)
+
+![Status do Projeto](https://img.shields.io/badge/Status-Em&Desenvolvimento-orange)
+> Nota: Estou seguindo a lista IFBA para a disciplina de Lógica de programação.
+
 ---
+
 ## Lista:
 
 1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu 
