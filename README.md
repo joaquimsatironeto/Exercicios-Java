@@ -1,6 +1,6 @@
 # Lista de exercícios em Java
-> **Nota:**Estou seguindo a lista IFBA para a disciplina de Lógica de programação.
-
+> Nota:Estou seguindo a lista IFBA para a disciplina de Lógica de programação.
+![Status do Projeto](https://img.shields.io/badge/Status-Em%Desenvolvimento-orange)
 ---
 ## Lista:
 
