@@ -1,5 +1,8 @@
 # Lista de exercícios em Java
-Estou seguindo a lista IFBA para a disciplina de Lógica de programação.
+> **Nota:**Estou seguindo a lista IFBA para a disciplina de Lógica de programação.
+
+---
+## Lista:
 
 1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu 
 perímetro. 
